@@ -1,0 +1,10 @@
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\bin\Debug\netstandard2.0\AntiDebugging.deps.json
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\bin\Debug\netstandard2.0\AntiDebugging.dll
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\bin\Debug\netstandard2.0\AntiDebugging.pdb
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\obj\Debug\netstandard2.0\AntiDebugging.csproj.AssemblyReference.cache
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\obj\Debug\netstandard2.0\AntiDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\obj\Debug\netstandard2.0\AntiDebugging.AssemblyInfoInputs.cache
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\obj\Debug\netstandard2.0\AntiDebugging.AssemblyInfo.cs
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\obj\Debug\netstandard2.0\AntiDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\obj\Debug\netstandard2.0\AntiDebugging.dll
+C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\obj\Debug\netstandard2.0\AntiDebugging.pdb

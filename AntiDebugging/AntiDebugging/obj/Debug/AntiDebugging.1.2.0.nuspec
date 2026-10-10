@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AntiDebugging</id>
+    <version>1.2.0</version>
+    <authors>Behzad Khosravifar</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>logo.png</icon>
+    <projectUrl>https://github.com/bezzad/AntiDebugging</projectUrl>
+    <description>C# Anti-Debug and Anti-Dumping techniques using Win32/NT API functions. There are certain functions/methods like the anti-dump that were created by other people.</description>
+    <releaseNotes>* PoC: Prevent a debugger from attaching to managed .NET processes via a watcher process code pattern.
+  * Anti Virtual Machine &amp; VPS
+  * Anti Dump - Clears headers and some secret magic ontop (WARNING! It breaks applications which are obfuscated)
+  * Check for managed debugger
+  * Check for unmanaged debugger
+  * Check for remote debugger
+  * Check debug port
+  * Detach from debugger process
+  * Check for kernel debugger
+  * Hides current process OS thread ( managed threads soon )
+  * Scan and Kill debuggers (ollydbg, x32dbg, x64dbg, Immunity, MegaDumper, etc)</releaseNotes>
+    <copyright>2020</copyright>
+    <tags>antidebug, antidebugging, net-antidebug, antidump, anti-virtualmachine, antivm, anti-emulation</tags>
+    <repository type="git" url="https://github.com/bezzad/AntiDebugging.git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.ComponentModel" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Management" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Principal.Windows" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Zey\Downloads\ZeyModz Load New\AntiDebugging\AntiDebugging\bin\Debug\netstandard2.0\AntiDebugging.dll" target="lib\netstandard2.0\AntiDebugging.dll" />
+    <file src="C:\Users\Zey\Downloads\LICENSE.txt" target="LICENSE.txt" />
+    <file src="C:\Users\Zey\Downloads\logo.png" target="logo.png" />
+  </files>
+</package>
